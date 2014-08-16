@@ -1,0 +1,51 @@
+(ika-map 
+	(version '1.2')
+	(information 
+		(title '')
+		(meta )
+	)
+	(header 
+		(dimensions 
+			(width '300')
+			(height '240')
+		)
+		(tileset 'donkyroad.vsp')
+	)
+	(waypoints )
+	(zones )
+	(layers 
+		(layer 
+			(label 'New Layer')
+			(type 'tile')
+			(dimensions 
+				(width '300')
+				(height '240')
+			)
+			(position 
+				(x '0')
+				(y '0')
+			)
+			(parallax 
+				(mulx '1')
+				(muly '1')
+				(divx '1')
+				(divy '1')
+			)
+			(wrap 
+				(x 'false')
+				(y 'false')
+			)
+			(data 
+				(format 'zlib')
+				'eJzs1IkJgEAQBMH1PfOP2ElCcKAKOoWemdnSno50pivdaaVnAP7Dr4AWfgW08CughV8BLfwKaOFXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCXXgAAAP//'
+			)
+			(obstructions 
+				(style 'tile')
+				(format 'zlib')
+				'eJzswTEBAAAAwqD1T+1vBqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACANwAAAP//'
+			)
+			(entities )
+			(zones )
+		)
+	)
+)
